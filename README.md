@@ -1,5 +1,7 @@
 # Hi :metal:
 - 🌱 I’m currently learning HTML, CSS and JavaScript
+<br>
+<a href="https://www.linkedin.com/in/cleilson-andrade/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cleilsonandrade" height="20" width="20" /></a>
 <!--
 **CleilsonAndrade/CleilsonAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
