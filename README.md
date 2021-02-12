@@ -1,5 +1,5 @@
 # Hi :metal:
-
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 <!--
 **CleilsonAndrade/CleilsonAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
