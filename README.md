@@ -2,10 +2,10 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 <br>
 
-<div>
-  <a href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cleilsonandrade" height="20" width="20" /></a>
-
-  <a href="https://app.rocketseat.com.br/me/cleilson-andrade" target="_blank"><img align="center" src="https://app.rocketseat.com.br/favicon.png" alt="cleilsonandrade" height="20" width="20" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cleilsonandrade" height="20" width="20" /></a>
+  
+  <a href="https://app.rocketseat.com.br/me/cleilson-andrade" target="_blank"><img src="https://app.rocketseat.com.br/favicon.png" alt="cleilsonandrade" height="20" width="20" /></a>
 </div>
 
 <!--
