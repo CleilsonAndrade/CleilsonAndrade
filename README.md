@@ -1,4 +1,7 @@
 # Hi :metal:
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cleilsonandrade&color=gray" alt="Cleilson Andrade"/> </p>
+
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 <br>
 
