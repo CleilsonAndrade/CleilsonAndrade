@@ -1,6 +1,6 @@
 # Hi :metal:
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=cleilsonandrade&color=gray" alt="Cleilson Andrade"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cleilsonandrade&color=blue" alt="Cleilson Andrade"/></p>
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 <br>
@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![CleilsonAndrade GitHub status](https://github-readme-stats.vercel.app/api?username=cleilsonandrade&show_icons=true&theme=tokyonight)
