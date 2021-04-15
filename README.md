@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cleilsonandrade&color=blue" alt="Cleilson Andrade"/></p>
 
-- 🌱 Atualmente estou aprendendo <b>HTML, CSS and JavaScript</b>
+- 🌱 Atualmente estou aprendendo <b>HTML, CSS e JavaScript</b>
 
 <!--
 **CleilsonAndrade/CleilsonAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
