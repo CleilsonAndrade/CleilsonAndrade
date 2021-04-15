@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cleilsonandrade&color=blue" alt="Cleilson Andrade"/></p>
 
-- 🌱 Atualmente estou aprendendo HTML, CSS and JavaScript
+- 🌱 Atualmente estou aprendendo <b>HTML, CSS and JavaScript</b>
 
 <!--
 **CleilsonAndrade/CleilsonAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![CleilsonAndrade GitHub status](https://github-readme-stats.vercel.app/api?username=cleilsonandrade&show_icons=true&theme=tokyonight)
 
-- 📫 Como me encontrar: ...
+- 📫 Como me encontrar:
 <p align="center">
   <span>
     <a href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank" title="Perfil LinkedIn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="CleilsonAndrade" height="36" width="36" /></a>
