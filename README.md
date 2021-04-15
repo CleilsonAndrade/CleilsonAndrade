@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...
 <span>
-  <a href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank" title="Perfil LinkedIn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cleilsonandrade" height="48" width="48" /></a>
-  <a href="https://app.rocketseat.com.br/me/cleilson-andrade" target="_blank" title="Perfil Rocketseat"><img src="https://app.rocketseat.com.br/favicon.png" alt="cleilsonandrade" height="48" width="48" /></a>
+  <a href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank" title="Perfil LinkedIn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cleilsonandrade" height="36" width="36" /></a>
+  <a href="https://app.rocketseat.com.br/me/cleilson-andrade" target="_blank" title="Perfil Rocketseat"><img src="https://app.rocketseat.com.br/favicon.png" alt="cleilsonandrade" height="36" width="36" /></a>
 </span>
