@@ -1,6 +1,6 @@
 # Hi :metal:
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=cleilsonandrade&color=blue" alt="Cleilson Andrade"/></p>
+![CleilsonAndrade](https://komarev.com/ghpvc/?username=cleilsonandrade&color=blue")
 
 - 🌱 Atualmente estou aprendendo <b>HTML, CSS e JavaScript</b>
 
