@@ -1,6 +1,6 @@
 # Hi :metal:
 
-![](https://komarev.com/ghpvc/?username=cleilsonandrade&color=green)
+![](https://komarev.com/ghpvc/?username=cleilsonandrade&style=flat-square&color=blue)
 
 - 🌱 Atualmente estou aprendendo <b>HTML, CSS e JavaScript</b>
 
