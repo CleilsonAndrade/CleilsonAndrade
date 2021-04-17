@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   </span>
 </p>
 
-![CleilsonAndrade GitHub status](https://github-readme-stats.vercel.app/api?username=cleilsonandrade&show_icons=true&layout=compact&locale=pt-br)
+![CleilsonAndrade GitHub status](https://github-readme-stats.vercel.app/api?username=cleilsonandrade&show_icons=true&locale=pt-br)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
