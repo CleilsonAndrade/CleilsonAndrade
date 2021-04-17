@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CleilsonAndrade GitHub status](https://github-readme-stats.vercel.app/api?username=cleilsonandrade&show_icons=true&theme=tokyonight)
-
 - 📫 Como me encontrar:
 <p align="center">
   <span>
@@ -28,3 +26,7 @@ Here are some ideas to get you started:
     <a href="https://app.rocketseat.com.br/me/cleilson-andrade" target="_blank" title="Perfil Rocketseat"><img src="https://app.rocketseat.com.br/favicon.png" alt="CleilsonAndrade" height="36" width="36" /></a>
   </span>
 </p>
+
+![CleilsonAndrade GitHub status](https://github-readme-stats.vercel.app/api?username=cleilsonandrade&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade)](https://github.com/anuraghazra/github-readme-stats)
+
