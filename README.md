@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&style=flat-square&color=blue)
 
-- 🌱 Atualmente estou aprendendo <b>HTML, CSS e JavaScript</b>
+- 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
 - 📫 Como me encontrar:
 <p align="center">
   <span>
