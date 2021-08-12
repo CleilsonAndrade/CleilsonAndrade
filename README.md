@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&style=flat-square&color=blue)
 
+- 📖 Cursando 1º Semestre de  **Análise e desenvolvimento de sistemas**
 - 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
 - 📫 Como me encontrar:
 <p align="center">
