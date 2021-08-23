@@ -1,21 +1,33 @@
 # Hi :metal:
 
-![](https://komarev.com/ghpvc/?username=cleilsonandrade&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 
 - 📖 Cursando 1º Semestre de  **Análise e desenvolvimento de sistemas**
 - 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
-- 📫 Como me encontrar:
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&include_all_commits=true&count_private=true&theme=dracula&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&theme=dracula">
+</div>
+
+<br>
+
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Cleilson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cleilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cleilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
+---
+
 <p align="center">
   <span>
-    <a href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank" title="Perfil LinkedIn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="CleilsonAndrade" height="36" width="36" /></a>
-    <a href="https://app.rocketseat.com.br/me/cleilson-andrade" target="_blank" title="Perfil Rocketseat"><img src="https://app.rocketseat.com.br/favicon.png" alt="CleilsonAndrade" height="36" width="36" /></a>
+    <a href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank" title="Perfil no LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteg" alt="CleilsonAndrade" /></a>
+    <a href="mailto:cleilsonjose@hotmail.com" target="_blank" title="E-mail para contato"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   </span>
 </p>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)<br>
-![CleilsonAndrade GitHub status](https://github-readme-stats.vercel.app/api?username=cleilsonandrade&show_icons=true&locale=pt-br)
 
 <!--
 **CleilsonAndrade/CleilsonAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
