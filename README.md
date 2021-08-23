@@ -5,6 +5,8 @@
 - 📖 Cursando 1º Semestre de  **Análise e desenvolvimento de sistemas**
 - 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
 
+---
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&include_all_commits=true&count_private=true&theme=dracula&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&theme=dracula">
@@ -19,8 +21,6 @@
 </div>
 
 <br>
-
----
 
 <p align="center">
   <span>
