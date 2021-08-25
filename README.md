@@ -1,4 +1,4 @@
-<img src="./src/programming.svg" width="200px" align="right" alt="Profile"/>
+<img src="./src/programming.svg" width="160px" align="right" alt="Profile"/>
 
 # Hi :metal:
 
