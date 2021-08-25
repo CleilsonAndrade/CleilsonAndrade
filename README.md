@@ -1,6 +1,6 @@
 <img src="./src/programming.svg" width="160px" align="right" alt="Profile"/>
 
-# Hi :metal:
+# Hi &nbsp;<img src="./src/metal.gif" width="48px" />
 
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 
