@@ -1,15 +1,17 @@
+<img src="./src/programming.svg" width="200px" align="right" alt="Profile"/>
+
 # Hi :metal:
 
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 
-- 📖 Cursando 1º Semestre de  **Análise e desenvolvimento de sistemas**
+- 📖 Cursando 1º Semestre de  **Análise e desenvolvimento de sistemas**(UNISA - Universidade de Santo Amaro)
 - 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&include_all_commits=true&count_private=true&theme=dracula&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&theme=dracula">
+<div align="center">
+  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&&layout=compact&include_all_commits=true&count_private=true&theme=dracula&show_icons=true">
+  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&theme=dracula">
 </div>
 
 <br>
