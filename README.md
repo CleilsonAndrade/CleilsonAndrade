@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 
-- 📖 Cursando 1º Semestre de  **Análise e desenvolvimento de sistemas**(UNISA - Universidade de Santo Amaro)
+- 📖 Graduando em  **Análise e desenvolvimento de sistemas**(UNISA - Universidade de Santo Amaro)
 - 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
 - ⚡ Curiosidades: Headbanger, Geek
 
