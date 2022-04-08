@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 
 - 📖 Graduando em  **Análise e desenvolvimento de sistemas**(UNISA - Universidade de Santo Amaro)
-- 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
+- 🌱 Atualmente estou aprendendo **JavaScript e Python**
 - ⚡ Curiosidades: Headbanger, Geek
 
 ---
@@ -21,6 +21,7 @@
   <img align="center" alt="Cleilson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cleilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cleilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cleilson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <br>
