@@ -1,6 +1,6 @@
 <img src="./src/programming.svg" width="160px" align="right" alt="Profile"/>
 
-# Hi &nbsp;<img src="./src/metal.gif" width="30px" />
+# Olá &nbsp;<img src="./src/metal.gif" width="30px" />
 
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 
@@ -11,8 +11,9 @@
 ---
 
 <div align="center">
-  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&theme=dracula">
-  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&&layout=compact&include_all_commits=true&count_private=true&theme=dracula&show_icons=true">
+  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&theme=nightowl">
+  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight&show_icons=true">
+  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api/wakatime?username=CleilsonAndrade)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 <br>
@@ -28,6 +29,7 @@
   <img align="center" alt="Cleilson-Python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cleilson-SQLite" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Cleilson-MySQL" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Cleilson-Jest" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
 
 <br>
