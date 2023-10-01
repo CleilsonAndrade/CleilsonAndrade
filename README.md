@@ -13,8 +13,16 @@
 <div align="center">
   <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&theme=nightowl">
   <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight&show_icons=true">
-  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api/wakatime?username=CleilsonAndrade)](https://github.com/anuraghazra/github-readme-stats">
 </div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CleilsonAndrade&locale=pt-br&theme=nightowl" alt="CleilsoAndrade wakatime stats">
+  </a>
+</p>
+
 
 <br>
 
