@@ -44,8 +44,8 @@
 
 <p align="center">
   <span>
-    <a href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank" title="Perfil no LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteg" alt="CleilsonAndrade" /></a>
-    <a href="mailto:cleilsonjose@hotmail.com" target="_blank" title="E-mail para contato"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+    <a target="_blank" href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank" title="Perfil no LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteg" alt="CleilsonAndrade" /></a>
+    <a target="_blank" href="mailto:cleilsonjose@hotmail.com" target="_blank" title="E-mail para contato"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   </span>
 </p>
 
