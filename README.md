@@ -17,12 +17,9 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CleilsonAndrade&locale=pt-br&theme=nightowl" alt="CleilsoAndrade wakatime stats">
-  </a>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@CleilsonAndrade&locale=pt-br&theme=nightowl" alt="CleilsonAndrade wakatime stats">
+</div>
 
 <br>
 
