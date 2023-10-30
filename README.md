@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 
 - 📖 Graduando em  **Análise e desenvolvimento de sistemas**(UNISA - Universidade de Santo Amaro)
-- 🌱 Atualmente estou aprendendo **TypeScript, NestJS e Prisma**
+- 🌱 Atualmente estou aprendendo **NestJS, Prisma e Springboot**
 - ⚡ Curiosidades: Headbanger, Geek
 
 ---
