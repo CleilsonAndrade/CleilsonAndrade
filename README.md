@@ -1,6 +1,6 @@
 <img src="./src/programming.svg" width="160px" align="right" alt="Profile"/>
 
-# Olá &nbsp;<img src="./src/metal.gif" width="30px" />
+# &#x1f918;
 
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 
