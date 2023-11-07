@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@CleilsonAndrade&locale=pt-br&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" alt="CleilsonAndrade wakatime stats">
+  <img width="57%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@CleilsonAndrade&locale=pt-br&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" alt="CleilsonAndrade wakatime stats">
 </div>
 
 <br>
