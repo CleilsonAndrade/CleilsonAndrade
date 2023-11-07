@@ -11,40 +11,25 @@
 ---
 
 <div align="center">
-  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&theme=nightowl">
-  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight&show_icons=true">
+  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117">
+  <img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@CleilsonAndrade&locale=pt-br&theme=nightowl" alt="CleilsonAndrade wakatime stats">
-</div>
-
-<br>
-
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Cleilson-HTML" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cleilson-CSS" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cleilson-Bootstrap" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Cleilson-Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cleilson-TypeScript" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Cleilson-NestJS" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Cleilson-Prisma" height="48" width="48" src="https://devicons.railway.app/i/prisma-dark.svg">
-  <img align="center" alt="Cleilson-Python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cleilson-SQLite" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Cleilson-MySQL" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Cleilson-Jest" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@CleilsonAndrade&locale=pt-br&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" alt="CleilsonAndrade wakatime stats">
 </div>
 
 <br>
 
 <p align="center">
-  <span>
-    <a target="_blank" href="https://www.linkedin.com/in/cleilson-andrade/" target="_blank" title="Perfil no LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteg" alt="CleilsonAndrade perfil LinkedIn"/></a>
-    <a href="mailto:cleilsonjose@hotmail.com" target="_blank" title="E-mail para contato"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  </span>
+  <a href="https://github.com/dougkalash">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,nodejs,ts,nestjs,prisma,mysql,jest" />
+  </a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer"/>
 
 
 <!--
