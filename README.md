@@ -3,6 +3,8 @@
 # &#x1f918;
 
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
+<br>
+<a href="https://wakatime.com/@1aaf803d-70a4-48ca-b268-27c6d514e6d4"><img src="https://wakatime.com/badge/user/1aaf803d-70a4-48ca-b268-27c6d514e6d4.svg" alt="Total time coded since Oct 1 2023" /></a>
 
 - 📖 Graduando em  **Análise e desenvolvimento de sistemas**(UNISA - Universidade de Santo Amaro)
 - 🌱 Atualmente estou aprendendo **NestJS, Prisma e Springboot**
