@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/dougkalash">
+  <a href="https://github.com/cleilsonandrade">
     <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,nodejs,ts,nestjs,prisma,mysql,jest" />
   </a>
 </p>
