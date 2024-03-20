@@ -5,10 +5,10 @@
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 <br>
 <!--<a href="https://wakatime.com/@1aaf803d-70a4-48ca-b268-27c6d514e6d4"><img src="https://wakatime.com/badge/user/1aaf803d-70a4-48ca-b268-27c6d514e6d4.svg" alt="Total time coded since Oct 1 2023" /></a>-->
-
-- 📖 Graduado em **Análise e desenvolvimento de sistemas** (UNISA - Universidade de Santo Amaro)
-- 🌱 Atualmente estou aprendendo **Spring**
-- ⚡ Curiosidades: Headbanger, Geek
+- 📃 Desenvolvedor Back End com histórico de participação em projetos como: TMS (Sistema de gerenciamento de transporte), Sistema de Roteirização, ETL, Crawling e Scraping. 
+- 📖 Graduado em **Análise e desenvolvimento de sistemas** (UNISA - Universidade de Santo Amaro) - 2023
+- 🪛 Desenvolvendo desde 2009, inicialmente com o Blogger
+- ⚡ Curiosidades: Headbanger, Geek, Amante de carros
 
 ---
 
