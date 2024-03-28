@@ -1,6 +1,6 @@
 <img src="./src/programming.svg" width="160px" align="right" alt="Profile"/>
 
-# &#x1f918;
+# &#x1F4BB; &#x1f918;
 
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 <br>
