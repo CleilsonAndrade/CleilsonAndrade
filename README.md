@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-    <img align="left" height="47%" width="49%" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="Estatísticas do GitHub de Cleilson Andrade" />
+    <img align="left" height="47%" width="47%" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="Estatísticas do GitHub de Cleilson Andrade" />
     <img align="right" height="10px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" alt="Linguagens mais usadas por Cleilson Andrade" />
 </div>
 
