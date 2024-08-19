@@ -11,9 +11,17 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117">
+<div align="center">
+  <table cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td width="50%">
+        <img height="120px" width="100%" src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="Estatísticas do GitHub de Cleilson Andrade">
+      </td>
+      <td width="50%">
+        <img height="120px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" alt="Linguagens mais usadas por Cleilson Andrade">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
