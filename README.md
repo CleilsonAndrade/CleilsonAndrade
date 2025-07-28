@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,javascript,nodejs,ts,express,nestjs,react,vite,prisma,mysql,postgres,jest,cypress" alt="HardSkills de Cleilson Andrade" title="HardSkills de Cleilson Andrade" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,javascript,nodejs,ts,express,nestjs,react,vite,sequelize,prisma,mysql,postgres,jest,cypress" alt="HardSkills de Cleilson Andrade" title="HardSkills de Cleilson Andrade" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=242938&height=120&section=footer"/>
