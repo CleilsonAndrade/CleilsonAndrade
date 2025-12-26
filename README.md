@@ -14,10 +14,10 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <!-- <td>
                 <img src="https://github-readme-stats.vercel.app/api?username=cleilsonandrade&locale=pt-br&show_icons=true&count_private=false&hide_border=true&title_color=ecf2f8&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="Estatísticas do GitHub de Cleilson Andrade" title="Estatísticas do GitHub de Cleilson Andrade" />
             </td>
-            <td>
+            <td> -->
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonandrade&locale=pt-br&layout=donut&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" alt="Linguagens mais usadas por Cleilson Andrade" title="Linguagens mais usadas por Cleilson Andrade" />
             </td>
         </tr>
