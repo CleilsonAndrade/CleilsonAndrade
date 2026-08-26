@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=cleilsonandrade&label=Visualizações&style=flat-square&color=blue)
 [![wakatime](https://wakatime.com/badge/user/1aaf803d-70a4-48ca-b268-27c6d514e6d4.svg)](https://wakatime.com/@1aaf803d-70a4-48ca-b268-27c6d514e6d4)
 
-- 📃 Desenvolvedor Backend com histórico de participação em projetos como: TMS (Sistema de Gerenciamento de Transporte), Sistema de Roteirização, ETL, Crawling e Scraping. 
+- 📃 Desenvolvedor Backend com histórico de participação em projetos como: TMS (Sistema de Gerenciamento de Transporte), Sistema de Roteirização
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - ⚡ Curiosidades: Headbanger, Geek, Amante de carros
 
